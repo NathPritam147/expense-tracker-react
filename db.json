@@ -1,0 +1,14 @@
+{
+  "history": [
+    {
+      "title": "Salary",
+      "amount": 50000,
+      "id": 2
+    },
+    {
+      "title": "Rent",
+      "amount": -5000,
+      "id": 3
+    }
+  ]
+}
